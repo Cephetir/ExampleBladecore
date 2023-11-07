@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "examplebladecore",
+    "name": "ExampleBladecore",
+    "description": "xd",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Cephetir"
+    ],
+    "credits": "Cephetir",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
